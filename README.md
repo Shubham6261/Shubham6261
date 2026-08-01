@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shubham6261/Shubham6261/main/assets/banner.svg" alt="Shubham Header Banner" width="100%" />
-</p>
-
 # Hi 👋, I'm Shubham
 
 ### **Software Development Engineer | C# / .NET & Microservices | 42Gears Mobility Systems**
@@ -56,15 +52,7 @@ When I'm not coding, I enjoy:
 * **Apple MDM & DDM**: Developed SureMDM AppStore and integrated **Declarative Device Management (DDM)** for real-time Apple device policies.
 * **AI Assistance**: Integrated **ChatGPT APIs** for automated customer support and contextual product adoption.
 
----
 
-## 🧮 Theoretical & System Models
-
-$$\mathcal{S}_{\text{system}} = \bigcup_{i=1}^{50} \text{Service}_i \quad \text{subject to} \quad N_{\text{devices}} \ge 10^5 , \; \Delta t_{\text{latency}} \le \tau_{\max}$$
-
-$$\text{EventStream}(t) = \text{KafkaProducer} \circ \text{Partition}_{\text{async}} \left( \sum_{k=1}^m \text{Payload}_k(t) \right)$$
-
----
 
 ## 🎓 Education
 
