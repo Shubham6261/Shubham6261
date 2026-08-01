@@ -112,15 +112,21 @@ $$\text{EventStream}(t) = \text{KafkaProducer} \circ \text{Partition}_{\text{asy
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham6261&show_icons=true&theme=radium&border_radius=10&count_private=true" width="48%" alt="Shubham's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham6261&layout=compact&theme=radium&border_radius=10&hide=html" width="48%" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/Shubham6261?style=for-the-badge&color=6366f1&logo=github" alt="Followers Badge"/>
+  <img src="https://img.shields.io/github/stars/Shubham6261/CSharp-DSA?style=for-the-badge&color=eab308&logo=github" alt="Stars Badge"/>
+  <img src="https://img.shields.io/badge/Public_Repos-5-10b981?style=for-the-badge&logo=github" alt="Public Repos"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham6261&theme=radium&border_radius=10" width="96%" alt="Shubham's Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubham6261&theme=github_dark" width="48%" alt="Shubham's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shubham6261&theme=github_dark" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham6261&theme=dark&background=0d1117&border=30363d" width="96%" alt="Shubham's Contribution Streak" />
 </p>
 
 ---
