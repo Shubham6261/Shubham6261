@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/Shubham6261/Shubham6261/main/assets/banner.svg" alt="Shubham Header Banner" width="100%" />
 </p>
 
-# Hi 👋, I'm Shubham Kumar
+# Hi 👋, I'm Shubham
 
-### **Backend Software Engineer | .NET & C# Specialist | LaTeX Document Systems & Algorithms**
+### **Software Development Engineer | C# / .NET & Microservices | 42Gears Mobility Systems**
 
 <p align="left">
   <a href="https://github.com/Shubham6261">
@@ -19,23 +19,24 @@
   <a href="mailto:shubham6261.off@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Shubham6261">
+  <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-10b981?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I am a **Backend & Software Engineer** passionate about building high-performance applications, robust REST APIs in **C# / .NET**, and high-precision automated document publishing using **LaTeX / TeX**. 
+I am a **Software Development Engineer** at **[42Gears Mobility Systems](https://www.42gears.com/)** with 3+ years of experience specializing in designing and developing scalable, high-performance APIs and microservices using **C# / .NET** within MVC architecture.
 
-Over my software engineering journey, I have focused on writing clean, maintainable code, solving complex algorithmic problems ($\mathcal{O}(N \log N)$ optimization), and architecting backend systems with strict performance constraints.
+Over my career, I have contributed to core backend infrastructure for **SureMDM**, architecting **50+ microservices** managing **100,000+ enterprise devices**, processing high-volume event streams with **Apache Kafka**, and working with large-scale **SQL Server** and **MongoDB** databases.
 
-> *"Every system I build starts with a strict focus on resource constraints, clean architecture boundaries, and user performance."*
+> *"Every system I build starts with a strict focus on resource constraints, clean architecture boundaries, high availability, and user performance."*
 
 When I'm not coding, I enjoy:
 - 📚 Reading Hindi literature & exploring classical texts
@@ -45,27 +46,40 @@ When I'm not coding, I enjoy:
 
 ---
 
-## 🧮 Theoretical & Mathematical Models
+## 💼 Work Experience
 
-$$\mathcal{S}_{\text{opt}} = \arg\min_{A \in \mathcal{A}} \left\{ \mathcal{O}(f_A(n)) + \mathcal{S}_A(n) \right\} \quad \text{where} \quad f_A(n) \le C \cdot n \log n$$
+### **Software Development Engineer** — [42Gears Mobility Systems](https://www.42gears.com/) *(July 2022 – Present)*
+* **Core Platform**: Engineered core backend microservices for **SureMDM** enterprise device management platform (**50+ microservices** managing **100,000+ devices**).
+* **Event-Driven Architecture**: Designed RESTful APIs & leveraged **Apache Kafka** for high-volume asynchronous messaging between microservices.
+* **Performance & Caching**: Implemented **Redis caching**, reducing CPU usage by **60%** and optimizing database response times.
+* **Security & PKI**: Built **SureMDM CA** (Certificate Authority) using BouncyCastle & Entra ID for automated Certificate-Based Authentication (CBA) across Android, iOS, and macOS.
+* **Apple MDM & DDM**: Developed SureMDM AppStore and integrated **Declarative Device Management (DDM)** for real-time Apple device policies.
+* **AI Assistance**: Integrated **ChatGPT APIs** for automated customer support and contextual product adoption.
 
-$$\mathcal{H}_{\text{system}}(t) = \prod_{i=1}^{k} \Phi_i\left(\text{Service}_i(t)\right) \quad \text{subject to} \quad \Delta t_{\text{latency}} \le \tau_{\text{threshold}}$$
+---
 
-$$\text{Document}(x) = \text{pdflatex} \circ \text{TikZ} \left( \sum_{j=1}^m \text{Component}_j(x) \right) \implies \mathbf{PDF}_{\text{vector}}$$
+## 🧮 Theoretical & System Models
+
+$$\mathcal{S}_{\text{system}} = \bigcup_{i=1}^{50} \text{Service}_i \quad \text{subject to} \quad N_{\text{devices}} \ge 10^5 , \; \Delta t_{\text{latency}} \le \tau_{\max}$$
+
+$$\text{EventStream}(t) = \text{KafkaProducer} \circ \text{Partition}_{\text{async}} \left( \sum_{k=1}^m \text{Payload}_k(t) \right)$$
 
 ---
 
 ## 🎓 Education
 
-* **Bachelor of Technology (B.Tech) in Computer Science & Engineering** 🎓
+* 🎓 **Bachelor of Technology (B.Tech) — Computer Science**
+  * **Vellore Institute of Technology (VIT)** *(2018 – 2022)* | CGPA: **8.75**
+* 🏫 **Intermediate Education — Science**
+  * RED Sr Sec School *(2015 – 2017)* | Score: **85.60%**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects & Codebases
 
-* **[CSharp-DSA](https://github.com/Shubham6261/CSharp-DSA)**: A comprehensive data structures and algorithms library engineered in modern C#, featuring optimized time/space complexity implementations.
-* **[resume-tex](https://github.com/Shubham6261/resume-tex)**: A high-precision LaTeX resume compiler & automated typesetting pipeline for generating vector-perfect professional PDFs.
-* **[Financepeer](https://github.com/Shubham6261/Financepeer)**: Enterprise backend financial service integration and API management modules.
+* **[CSharp-DSA](https://github.com/Shubham6261/CSharp-DSA)**: High-performance Data Structures & Algorithms implementations in modern C#.
+* **[resume-tex](https://github.com/Shubham6261/resume-tex)**: High-precision ATS-optimized LaTeX resume compiler and document engine.
+* **[Financepeer](https://github.com/Shubham6261/Financepeer)**: Enterprise backend financial service system integration.
 
 ---
 
@@ -75,29 +89,30 @@ $$\text{Document}(x) = \text{pdflatex} \circ \text{TikZ} \left( \sum_{j=1}^m \te
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/SQL-Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 </p>
 
-### **Tools & Platforms**
+### **Backend, Cloud & Security**
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
 </p>
 
-### **Architecture & Engineering**
-* **Architecture**: Clean Architecture, Microservices, Repository Pattern, Dependency Injection, SOLID Principles
-* **CS & Systems**: Data Structures & Algorithms, System Design, RESTful API Design, Async/Multithreading
-* **Publishing & TeX**: TeX Engine, TikZ Graphics, pdflatex Compilation Pipelines, Vector Layout Design
+### **Architecture & Tools**
+* **Architecture**: Microservices, MVC, Event-Driven Architecture, Distributed Systems, RESTful APIs
+* **Security & Enterprise**: Certificate-Based Authentication (CBA), PKI/CA, Apple DDM, Entra ID
+* **DevOps & Monitoring**: Git, GitLab CI/CD, Jira, Grafana, Loki, VS Code, Visual Studio
 
 ---
 
-## 📊 GitHub & Coding Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shubham6261&show_icons=true&theme=radium&border_radius=10&count_private=true" width="48%" alt="Shubham's GitHub Stats" />
@@ -112,13 +127,13 @@ $$\text{Document}(x) = \text{pdflatex} \circ \text{TikZ} \left( \sum_{j=1}^m \te
 
 ## 📫 Let's Connect
 
-I'm always excited to collaborate on interesting backend projects, algorithmic challenges, or LaTeX publishing systems. Feel free to reach out if you’d like to connect or work together!
+I'm always excited to collaborate on enterprise backend microservices, distributed event-driven systems, or Apple device management engineering.
 
 <p align="center">
   <a href="mailto:shubham6261.off@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/Shubham6261">
+  <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Shubham6261">
@@ -127,5 +142,5 @@ I'm always excited to collaborate on interesting backend projects, algorithmic c
 </p>
 
 <p align="center">
-  <sub><i>Designed &amp; Typeset with LaTeX precision by Shubham Kumar</i></sub>
+  <sub><i>Engineered with LaTeX precision by Shubham | Vellore Institute of Technology (VIT)</i></sub>
 </p>
