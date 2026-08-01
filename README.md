@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Shubham Kumar
 
-### **Backend Software Engineer | .NET & C# Specialist | $\text{\LaTeX}$ Document Systems & Algorithms**
+### **Backend Software Engineer | .NET & C# Specialist | LaTeX Document Systems & Algorithms**
 
 <p align="left">
   <a href="https://github.com/Shubham6261">
@@ -31,7 +31,7 @@
 
 ## 🙋‍♂️ About Me
 
-I am a **Backend & Software Engineer** passionate about building high-performance applications, robust REST APIs in **C# / .NET**, and high-precision automated document publishing using **$\text{\LaTeX}$ / TeX**. 
+I am a **Backend & Software Engineer** passionate about building high-performance applications, robust REST APIs in **C# / .NET**, and high-precision automated document publishing using **LaTeX / TeX**. 
 
 Over my software engineering journey, I have focused on writing clean, maintainable code, solving complex algorithmic problems ($\mathcal{O}(N \log N)$ optimization), and architecting backend systems with strict performance constraints.
 
@@ -45,6 +45,16 @@ When I'm not coding, I enjoy:
 
 ---
 
+## 🧮 Theoretical & Mathematical Models
+
+$$\mathcal{S}_{\text{opt}} = \arg\min_{A \in \mathcal{A}} \left\{ \mathcal{O}(f_A(n)) + \mathcal{S}_A(n) \right\} \quad \text{where} \quad f_A(n) \le C \cdot n \log n$$
+
+$$\mathcal{H}_{\text{system}}(t) = \prod_{i=1}^{k} \Phi_i\left(\text{Service}_i(t)\right) \quad \text{subject to} \quad \Delta t_{\text{latency}} \le \tau_{\text{threshold}}$$
+
+$$\text{Document}(x) = \text{pdflatex} \circ \text{TikZ} \left( \sum_{j=1}^m \text{Component}_j(x) \right) \implies \mathbf{PDF}_{\text{vector}}$$
+
+---
+
 ## 🎓 Education
 
 * **Bachelor of Technology (B.Tech) in Computer Science & Engineering** 🎓
@@ -54,7 +64,7 @@ When I'm not coding, I enjoy:
 ## 🚀 Featured Projects
 
 * **[CSharp-DSA](https://github.com/Shubham6261/CSharp-DSA)**: A comprehensive data structures and algorithms library engineered in modern C#, featuring optimized time/space complexity implementations.
-* **[resume-tex](https://github.com/Shubham6261/resume-tex)**: A high-precision $\text{\LaTeX}$ resume compiler & automated typesetting pipeline for generating vector-perfect professional PDFs.
+* **[resume-tex](https://github.com/Shubham6261/resume-tex)**: A high-precision LaTeX resume compiler & automated typesetting pipeline for generating vector-perfect professional PDFs.
 * **[Financepeer](https://github.com/Shubham6261/Financepeer)**: Enterprise backend financial service integration and API management modules.
 
 ---
@@ -102,7 +112,7 @@ When I'm not coding, I enjoy:
 
 ## 📫 Let's Connect
 
-I'm always excited to collaborate on interesting backend projects, algorithmic challenges, or $\text{\LaTeX}$ publishing systems. Feel free to reach out if you’d like to connect or work together!
+I'm always excited to collaborate on interesting backend projects, algorithmic challenges, or LaTeX publishing systems. Feel free to reach out if you’d like to connect or work together!
 
 <p align="center">
   <a href="mailto:shubham6261.off@gmail.com">
@@ -117,7 +127,5 @@ I'm always excited to collaborate on interesting backend projects, algorithmic c
 </p>
 
 <p align="center">
-  <sub><i>Designed &amp; Typeset with <a href="https://github.com/Shubham6261/resume-tex">$\text{\LaTeX}$</a> precision by Shubham Kumar</i></sub>
+  <sub><i>Designed &amp; Typeset with LaTeX precision by Shubham Kumar</i></sub>
 </p>
-
-
